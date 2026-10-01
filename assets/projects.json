@@ -1,0 +1,9 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "safak-senal-61",
+      "description": "Bu profil — animasyonlu terminal banner, radar, stat kartları. Tamamen lokal SVG'ler, dış servislere bağımlılık yok."
+    }
+  ]
+}

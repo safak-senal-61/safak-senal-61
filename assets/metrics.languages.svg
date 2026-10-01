@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="165" viewBox="0 0 480 165" role="img" aria-label="most used languages (pending first metrics action run)">
+  <rect width="480" height="165" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="700" fill="#aa9bef" letter-spacing="0.4">~/metrics/languages.svg</text>
+  <text x="20" y="62" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#8b949e">status: awaiting first Metrics workflow run</text>
+  <text x="20" y="86" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#8b949e">→ push to main, or trigger via Actions tab → "Metrics"</text>
+  <text x="20" y="106" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#8b949e">→ requires METRICS_TOKEN secret (read:user) for full data</text>
+  <text x="20" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" fill="#8b949e">● STANDBY</text>
+</svg>
