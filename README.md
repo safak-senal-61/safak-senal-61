@@ -12,7 +12,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/safak-senal-61">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=Sa%C4%9Fak+-+Fullstack+Developer+%26+Mobile;Architecture+of+APIs+/+React+/+Mobile+Infra;Building+here+since+Forever" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=AA9BEF&center=true&vCenter=true&width=880&lines=%C5%9Eafak+-+Fullstack+Developer+%26+Mobile;Architecture+of+APIs+/+React+/+Mobile+Infra;Building+here+since+Forever" alt="typing banner">
 </a>
 
 <br>
@@ -33,7 +33,7 @@
 
 ## This is me :)
 
-Merhaba, ben **Sağak**, fullstack developer ve mobil mühendis, Türkiye'den yayın yapıyorum 🇹🇷.
+Merhaba, ben **Şafak**, fullstack developer ve mobil mühendis, Türkiye'den yayın yapıyorum 🇹🇷.
 Hem web hem mobil istemciler için uçtan uca ürünler geliştiriyorum, ve tek bir backend'i
 3 farklı platforma (web + iOS + Android) aynı anda servis etmeye meraklıyım.
 

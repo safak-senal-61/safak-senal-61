@@ -30,7 +30,7 @@ TRAVELLER_COUNT = 900
 SEED = 314159
 
 ROWS = [
-    ("Subject", "Sağak"),
+    ("Subject", "Şafak"),
     ("Role", "Fullstack Developer · Mobile · API"),
     ("Origin", "Türkiye"),
     ("Education", "Self-taught · Building"),
@@ -77,7 +77,7 @@ THEMES = {
 
 def make_logos() -> dict[str, Image.Image]:
     """Create clean 400px black-on-transparent silhouette sources.
-    Sağak's stack: React (atom), Node.js (hexagon), Flutter (wing)."""
+    Şafak's stack: React (atom), Node.js (hexagon), Flutter (wing)."""
     LOGOS.mkdir(parents=True, exist_ok=True)
     size = 400
     logos: dict[str, Image.Image] = {}
@@ -290,9 +290,9 @@ def render_svg(
         '<svg xmlns="http://www.w3.org/2000/svg" '
         f'width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" '
         'aria-labelledby="title desc">',
-        "<title id=\"title\">Sağak's live system profile</title>",
+        "<title id=\"title\">Şafak's live system profile</title>",
         '<desc id="desc">Animated terminal profile with a dithered portrait and '
-        "React, code, and Flutter silhouettes.</desc>",
+        "React, code, and Flutter silhouettes. — Şafak Şenal</desc>",
         "<defs>",
         '<filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">'
         f'<feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="{t["shadow"]}" '
