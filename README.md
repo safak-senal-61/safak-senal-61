@@ -9,15 +9,13 @@
 
 <div align="center">
 
-<!-- Neon animasyonlu başlık bandı (capsule-render glitch gradient) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=glitch&text=Sa%C4%9Fak%20%C5%9Eenal&height=120&color=0F0F3D&fontAlign=50&fontSize=70&animation=blink&desc=Fullstack%20Developer%20%F0%9F%92%BB&descAlign=50&descAlignY=80&stroke=00F0FF&strokeWidth=2&textBg=0F0F3D"/>
-
-</a>
+<!-- Neon animasyonlu başlık bandı (capsule-render venom - glitch artık bozuk) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&text=Sa%C4%9Fak%20%C5%9Eenal&height=120&color=0F0F3D&fontSize=70&animation=blink&desc=Fullstack%20Developer&descAlign=50&descAlignY=80&stroke=00F0FF&strokeWidth=2"/>
 
 <br/>
 
-<!-- Glitch alt başlık -->
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&text=%26nbsp%3BReact%20%C2%B7%20Next.js%20%C2%B7%20Node%20%C2%B7%20React%20Native%20%C2%B7%20Flutter%20%C2%B7%20API%20%C2%B7%20DevOps&height=40&color=0F0F3D&fontAlign=50&fontSize=18&animation=fadeIn&fontColor=00F0FF"/>
+<!-- Animasyonlu alt başlık -->
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&text=React%20%C2%B7%20Next.js%20%C2%B7%20Node%20%C2%B7%20React%20Native%20%C2%B7%20Flutter%20%C2%B7%20API%20%C2%B7%20DevOps&height=40&color=0F0F3D&fontAlign=50&fontSize=18&animation=fadeIn&fontColor=00F0FF"/>
 
 <br/>
 
