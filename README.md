@@ -151,4 +151,8 @@ Cloudflare
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80" /></div><br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,25:8a2be2,50:4b0082,75:17004d,100:05001a&height=150&section=footer&animation=twinkling"/><div align="center">"< / BUILDING THE FUTURE />"
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/safak-senal-61/safak-senal-61/output/github-contribution-grid-snake-dark.svg" width="100%">
+
 </div>
