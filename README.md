@@ -22,7 +22,7 @@
 <br/>
 
 <!-- Selamlayan dalga emojisi -->
-<img src="https://raw.githubusercontent.com/muhammederdem/mini-gifs/master/waving-hand.gif" width="60" align="right" hspace="20"/>
+<img src="https://media.giphy.com/media/hSEfMXO2lq5q4/giphy.gif" width="80" align="right" hspace="20" alt="waving"/>
 
 </div>
 
@@ -57,11 +57,11 @@ Arka planda REST ve GraphQL servisleri, ön yüzde React/Next.js, mobil tarafta 
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/safak-senal-61/count.svg" alt="Ziyaretçi sayacı" width="220"/>
+<img src="https://img.shields.io/badge/Profil%20Ziyareti-_%E2%9C%A8-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F3D&color=FF00E6"/>
 
 <br/>
 
-<img src="https://komarev.com/awwvisitors/awwvisitors?username=safak-senal-61&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&style=for-the-badge&color=00F0FF&bg=0F0F3D" alt="awwvisitors"/>
+<img src="https://img.shields.io/badge/Herkese_a%C3%A7%C4%B1k-%F0%9F%91%8B-FFFFFF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0F0F3D&color=00F0FF"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Arka planda REST ve GraphQL servisleri, ön yüzde React/Next.js, mobil tarafta 
 <br/><br/>
 
 <!-- Streak kartı -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=safak-senal-61&theme=radical&hide_border=true&background=0F0F3D&ring=00F0FF&fire=FF00E6&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=9D00FF&dates=FFFFFF"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=safak-senal-61&theme=radical&hide_border=true&background=0F0F3D&ring=00F0FF&fire=FF00E6&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=9D00FF&dates=FFFFFF"/>
 
 <br/><br/>
 
@@ -101,8 +101,8 @@ Arka planda REST ve GraphQL servisleri, ön yüzde React/Next.js, mobil tarafta 
 
 <br/><br/>
 
-<!-- Detaylı aktivite grafiği -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=safak-senal-61&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=FF00E6"/>
+<!-- Aktivite grafiği (402 ücretli olduğundan kaldırıldı) -->
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=safak-senal-61&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F3D&title_color=00F0FF&icon_color=FF00E6&text_color=FFFFFF&count_color=9D00FF&include_all_commits=true&count_private=true&layout=compact&hide=issues,contribs"/>
 
 </div>
 
@@ -110,7 +110,7 @@ Arka planda REST ve GraphQL servisleri, ön yüzde React/Next.js, mobil tarafta 
 
 <!-- ===================== TEK STACK / TECH STACK ===================== -->
 
-## <img src="https://media2.giphy.com/media/qgQUggX3oqmywHZbgi/giphy.gif?cid=790b7611m8v5b5c8e5f5c8e5f5c8e5f5c8e5f5c8e5&rid=giphy.gif" width="45" align="left" /> Teknoloji Stack
+## <img src="https://media.giphy.com/media/SWucORy0AFQ6a5ivUq/giphy.gif" width="45" align="left" /> Teknoloji Stack
 
 <div align="center">
 
@@ -203,7 +203,7 @@ Arka planda REST ve GraphQL servisleri, ön yüzde React/Next.js, mobil tarafta 
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=safak-senal-61&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"/>
+<img width="95%" src="https://github-trophies.vercel.app/?username=safak-senal-61&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8"/>
 
 </div>
 
