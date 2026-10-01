@@ -166,8 +166,7 @@ def floyd_steinberg(gray: np.ndarray) -> np.ndarray:
 def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     """Return sampled x/y banner coordinates from a 300x340 dither grid."""
     source = Image.open(SOURCE).convert("RGBA")
-    # Kedi portresi: source 408x612, kedi kafası y: 155-456 arasında ortalanmış.
-    # emmi-lili tarzı (18,28,390,450) crop'u kullan, alpha zaten arka planı eleyecek.
+    # Tighter head + shoulders crop so face detail fills the VISUAL.MAP frame.
     crop = source.crop((18, 28, 390, 450)).resize((300, 340), Image.Resampling.LANCZOS)
     rgb = crop.convert("RGB")
     alpha = np.asarray(crop.getchannel("A"), dtype=np.float32) / 255.0
@@ -175,9 +174,7 @@ def portrait_points(theme: str, rng: np.random.Generator) -> np.ndarray:
     if theme == "dark":
         lum = np.asarray(ImageOps.grayscale(rgb), dtype=np.float32)
         prepared = Image.fromarray(np.uint8(np.clip(lum * alpha, 0, 255)), "L")
-        # Kedi kafası koyu tüyleriyle belirgin olduğu için dark pikselleri seç (select_lit=False).
-        # emmi-lili'nin insan portresinde select_lit=True idi, koyu saç vs lit yüz seçiliyordu.
-        select_lit = False
+        select_lit = True
     else:
         white = Image.new("RGBA", crop.size, "white")
         white.alpha_composite(crop)
