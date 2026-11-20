@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title">
+  <title>Şafak Şenal | Fullstack ve Mobil Geliştirici</title>
+  <style>
+    .sans {font-family:system-ui,-apple-system,"Segoe UI",sans-serif}
+    .mono {font-family:ui-monospace,"SFMono-Regular",Consolas,monospace;font-weight:700;letter-spacing:1.2px}
+    @media (prefers-reduced-motion: no-preference) {
+      .orbit {animation:trace 4.7s ease-in-out 1}
+      .ping {animation:ping 4.7s ease-out 1}
+      .answer {animation:answer 4.3s ease-in-out 1}
+    }
+    @keyframes trace {
+      0% {opacity:0;stroke-dashoffset:110}
+      16%, 79% {opacity:1}
+      100% {opacity:0;stroke-dashoffset:-460}
+    }
+    @keyframes ping {
+      0%, 17%, 100% {opacity:0;r:6px}
+      27% {opacity:.8;r:6px}
+      52%, 73% {opacity:0;r:15px}
+      79% {opacity:.65;r:6px}
+    }
+    @keyframes answer {
+      0%, 14%, 100% {opacity:0}
+      45%, 77% {opacity:1}
+    }
+  </style>
+  <defs>
+    <clipPath id="bounds"><rect width="960" height="340" rx="26"/></clipPath>
+    <linearGradient id="glass" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101121"/><stop offset="1" stop-color="#211e3a"/>
+    </linearGradient>
+    <radialGradient id="bloom" cx=".78" cy=".56" r=".52">
+      <stop stop-color="#342361" stop-opacity=".9"/><stop offset="1" stop-color="#342361" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#45405f" opacity=".54"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="960" height="340" fill="url(#glass)"/>
+    <rect width="960" height="340" fill="url(#bloom)"/>
+    <rect width="960" height="340" fill="url(#dots)"/>
+    <path d="M44 68 H916" stroke="#45405f"/>
+    <rect x="44" y="33" width="9" height="9" rx="2" fill="#80e8c5"/>
+    <text x="63" y="42" class="mono" fill="#bebbd4" font-size="13">GELİŞTİRİCİ PROFİLİ</text>
+    <text x="916" y="42" text-anchor="end" class="mono" fill="#bebbd4" font-size="13">@safak-senal-61</text>
+    <text x="44" y="172" class="sans" fill="#f4f2ff" font-weight="800" font-size="78" letter-spacing="-2.9">Şafak Şenal<tspan fill="#bfaaff">.</tspan></text>
+    <text x="44" y="218" class="sans" fill="#bebbd4" font-size="31">Fullstack &amp; Mobil Geliştirici</text>
+    <g transform="translate(44 251)" class="mono" font-size="13" fill="#f4f2ff">
+      <rect width="68" height="33" rx="16.5" fill="#24213e" stroke="#45405f"/>
+      <text x="34" y="21" text-anchor="middle">WEB</text>
+      <rect x="77" width="84" height="33" rx="16.5" fill="#24213e" stroke="#45405f"/>
+      <text x="119" y="21" text-anchor="middle">MOBİL</text>
+      <rect x="170" width="68" height="33" rx="16.5" fill="#24213e" stroke="#45405f"/>
+      <text x="204" y="21" text-anchor="middle">API</text>
+    </g>
+    <g transform="translate(567 81) scale(1.05)">
+      <path d="M22 117h272M158 14v206" stroke="#45405f" stroke-dasharray="2 6" fill="none"/>
+      <circle cx="158" cy="117" r="105" fill="none" stroke="#45405f"/>
+      <circle cx="158" cy="117" r="88" fill="#16172b" fill-opacity=".55" stroke="#45405f" stroke-dasharray="2 5"/>
+      <circle cx="158" cy="117" r="88" class="orbit" fill="none" stroke="#bfaaff" stroke-width="3"
+              stroke-dasharray="32 521" stroke-linecap="round" opacity="0" transform="rotate(-90 158 117)"/>
+      <path d="M158 29v55m0 65v56m-70-44 40-26m60 0 40 26" stroke="#bfaaff" stroke-opacity=".6" fill="none"/>
+      <circle cx="158" cy="29" r="5" fill="#80e8c5"/>
+      <circle cx="88" cy="161" r="5" fill="#bfaaff"/>
+      <circle cx="228" cy="161" r="5" fill="#80e8c5"/>
+      <circle cx="158" cy="29" r="7" class="ping" fill="none" stroke="#80e8c5" stroke-width="2" opacity="0"/>
+      <circle cx="228" cy="161" r="7" class="ping" fill="none" stroke="#80e8c5" stroke-width="2" opacity="0"/>
+      <path d="M153 12h10m-5-5v10m-5 205h10m-5-5v10m-110-110h10m-5-5v10m205-5h10m-5-5v10"
+            stroke="#bfaaff" stroke-linecap="round" fill="none"/>
+      <rect x="116" y="84" width="84" height="65" rx="17" fill="#16172b" stroke="#bfaaff" stroke-width="1.4"/>
+      <path d="m143 110-9 7 9 7m30-14 9 7-9 7m-11-21-8 28"
+            stroke="#bfaaff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <g class="mono" font-size="12" fill="#bebbd4">
+        <text x="177" y="34">WEB</text>
+        <text x="24" y="166">MOBİL</text>
+        <text x="243" y="166">API</text>
+      </g>
+      <circle cx="48" cy="61" r="2" fill="#bfaaff" opacity=".8"/>
+      <circle cx="265" cy="69" r="2" fill="#80e8c5" opacity=".8"/>
+      <circle cx="246" cy="207" r="2" fill="#bfaaff" opacity=".8"/>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="958.5" height="338.5" rx="25.25" fill="none" stroke="#45405f" stroke-width="1.5"/>
+</svg>
